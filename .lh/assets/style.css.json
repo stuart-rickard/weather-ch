@@ -1,0 +1,26 @@
+{
+    "sourceFile": "assets/style.css",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 2,
+            "patches": [
+                {
+                    "date": 1638850114476,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1638853742258,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,3 +1,4 @@\n-* {\r\n-    border: 1px solid black;\r\n+.forecast-card {\r\n+    background-color: darkblue;\r\n+    color: white;\r\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1638854118034,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,9 @@\n+h1 {\r\n+    background-color: darkgray;\r\n+    color: white;\r\n+}\r\n+\r\n .forecast-card {\r\n     background-color: darkblue;\r\n     color: white;\r\n }\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1638850114476,
+            "name": "Commit-0",
+            "content": "* {\r\n    border: 1px solid black;\r\n}"
+        }
+    ]
+}

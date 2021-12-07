@@ -1,0 +1,9 @@
+h1 {
+    background-color: darkgray;
+    color: white;
+}
+
+.forecast-card {
+    background-color: darkblue;
+    color: white;
+}
