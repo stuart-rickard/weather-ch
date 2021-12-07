@@ -1,0 +1,22 @@
+{
+    "sourceFile": "README.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1638858330246,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1638858592427,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,4 +3,5 @@\n This dashboard represents a truncated effort on the sixth challenge of the UC Berkeley Extension Coding Bootcamp.\r\n \r\n The live webpage can be found here:\r\n \r\n+https://stuart-rickard.github.io/weather-ch/\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1638858330246,
+            "name": "Commit-0",
+            "content": "# Weather Dashboard\r\n\r\nThis dashboard represents a truncated effort on the sixth challenge of the UC Berkeley Extension Coding Bootcamp.\r\n\r\nThe live webpage can be found here:\r\n\r\n"
+        }
+    ]
+}
